@@ -1,0 +1,33 @@
+
+.border{
+    
+    background-color: aquamarine;
+    margin-left: 450px;
+    border-style: solid;
+    border-color: red;
+    
+    width: 600px;
+    height: 750px;
+}
+.header{
+    background-color:sandybrown;
+    text-align: center;
+    color: chartreuse;
+    text-decoration: underline ;
+    text-decoration-color:black;
+    border: 2px solid red;
+    padding: 2%;
+}
+.bodyform{
+    padding: 5%;
+    font-weight: bold;
+    font-size: large;
+}
+.submit{
+    text-align: center;
+    font-size: 5px;
+    
+}
+.add{
+    margin-top: 300px;
+}
